@@ -1,11 +1,11 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>ru.job4j</groupId>
-    <artifactId>junior</artifactId>
+    <groupId>project</groupId>
+    <artifactId>parsersql</artifactId>
     <packaging>pom</packaging>
     <version>2.0</version>
-    <name>junior</name>
-    <url>http://job4j.ru/</url>
+    <name>parsersql</name>
+    <url>https://github.com/Ajderka/ParserSQL/tree</url>
 
     <profiles>
         <profile>
@@ -40,7 +40,7 @@
             <properties>
                 <db.url>jdbc:postgresql://localhost/tracker</db.url>
                 <db.username>postgres</db.username>
-                <db.password></db.password>
+                <db.password>1402</db.password>
                 <db.driver>org.postgresql.Driver</db.driver>
             </properties>
         </profile>
@@ -53,14 +53,6 @@
     </properties>
 
     <modules>
-        <module>chapter_001</module>
-        <module>puzzle</module>
-        <module>chess</module>
-        <module>chapter_02</module>
-        <module>chapter_003</module>
-        <module>chapter_004</module>
-        <module>chapter_005</module>
-        <module>chapter_007</module>
         <module>parsersql</module>
     </modules>
 
