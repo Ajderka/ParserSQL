@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ParcerSQL.iml" filepath="$PROJECT_DIR$/.idea/ParcerSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job4j/parsersql/parsersql (1) (ru.job4j).iml" filepath="$PROJECT_DIR$/job4j/parsersql/parsersql (1) (ru.job4j).iml" />
+      <module fileurl="file://$PROJECT_DIR$/job4j/parsersql (2) (project).iml" filepath="$PROJECT_DIR$/job4j/parsersql (2) (project).iml" />
     </modules>
   </component>
 </project>
